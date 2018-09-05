@@ -361,7 +361,7 @@ Tx done
 
 ---
 
-## TTN with RIOT: practice (2)
+## Sending sensor data to TTN: practice
 
 - **Exercise:** `~/riot-course-exercises/riot-lorawan/sensor`
 
